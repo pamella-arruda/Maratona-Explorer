@@ -24,14 +24,8 @@ h1 {
     opacity:0.9;
 }
 
-<<<<<<< HEAD
-p{
-    margin-bottom:40px;
-=======
 p {
-    margin-bottom: 40px;
->>>>>>> 3a9ca05dbfb03fbb364a62b033bf9fd8f404e569
-    opacity:0.7;
+    margin-bottom:40px;
 }
 
 input, button{
