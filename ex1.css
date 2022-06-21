@@ -11,21 +11,26 @@ body {
     font-family:sans-serif;
 }
 
-#container{
+#container {
     margin-top: 100px;
     width: 80%;
     max-width: 400px;
     margin-inline:auto;
 }
 
-h1{
+h1 {
     margin-top:40px;
     margin-bottom:10px;
     opacity:0.9;
 }
 
+<<<<<<< HEAD
 p{
     margin-bottom:40px;
+=======
+p {
+    margin-bottom: 40px;
+>>>>>>> 3a9ca05dbfb03fbb364a62b033bf9fd8f404e569
     opacity:0.7;
 }
 
@@ -38,11 +43,11 @@ input, button{
     
 }
 
-input{
+input {
     margin-bottom:20px;
 }
 
-button{
+button {
     border:none;
     background-color:blueviolet;
     color:white;
