@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 10px;
 }
 
 body {
@@ -23,7 +23,7 @@ h1{
 }
 
 p{
-    margin: bottom40px;
+    margin-bottom:40px;
     opacity:0.7;
 }
 
@@ -33,6 +33,7 @@ input, button{
     padding:20px;
     font-size:20px;
     border-radius:4px;
+    box-sizing: content-box;
 }
 
 input{
